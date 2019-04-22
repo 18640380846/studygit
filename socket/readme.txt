@@ -1,0 +1,1 @@
+这两个项目是在Windows下的vs里面写的，原来没有学过linux系统，不知道Linux和Windows下的函数库差了这么多，这两个项目在Linux里面跑不起来，只能在Windows下跑，要配置pthread函数库
